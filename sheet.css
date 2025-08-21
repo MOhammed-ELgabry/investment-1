@@ -30,7 +30,7 @@
         font-size: 66px;
         font-weight: 700;
         @media screen and (max-width: 992px) {
-          font-size: 33px;
+          font-size: 25px;
         }
       }
     }
