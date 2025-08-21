@@ -84,3 +84,29 @@ background-color: blue;
         }
     }
 }
+.sec-3{
+    h5{
+        font-size: 22.5px;
+font-weight: 700;
+letter-spacing: 1px;
+line-height: 27px;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: left;
+text-transform: uppercase;
+word-spacing: 0px;
+    }
+    h4{
+    font-size: 27px;
+font-weight: 700;
+line-height: 32.4px;
+text-decoration: none solid rgb(255, 255, 255);
+text-align: left;
+word-spacing: 0px;
+color: white;
+}
+    .left{
+        height: 67px;
+width: 254px;
+
+    }
+}
